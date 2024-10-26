@@ -1,5 +1,0 @@
-Credentials cache: API:60721
-        Principal: artainmo@S19.BE
-
-  Issued                Expires             Flags    Principal
-Aug  5 15:04:40 2019  Aug  6 01:04:33 2019  FPIA   krbtgt/S19.BE@S19.BE
